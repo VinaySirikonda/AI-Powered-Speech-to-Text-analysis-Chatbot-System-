@@ -1,0 +1,5 @@
+{
+  "name": "AI Project Assistant",
+  "description": "An intelligent assistant that analyzes meeting transcripts and project documents to generate executive summaries, structured action items, risks, and leadership insights using the Gemini API.",
+  "requestFramePermissions": []
+}
